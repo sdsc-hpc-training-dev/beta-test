@@ -1,9 +1,6 @@
 [submodule "comet-101"]
 	path = comet-101
 	url = https://github.com/sdsc-hpc-training-org/comet-101
-[submodule "notebooks-101"]
-	path = notebooks-101
-	url = https://github.com/sdsc-hpc-training-org/notebooks-101
 [submodule "expanse-101"]
 	path = expanse-101
 	url = https://github.com/sdsc-hpc-training-org/expanse-101
