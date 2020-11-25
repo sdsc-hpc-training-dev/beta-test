@@ -1,6 +1,6 @@
 title: beta-test
 description: beta-test for SDSC101
-
+baseurl: "/beta-test"
 theme: null
 
 # debug:
