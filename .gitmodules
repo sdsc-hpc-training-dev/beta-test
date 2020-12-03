@@ -6,4 +6,4 @@
 	url = https://github.com/sdsc-hpc-training-org/expanse-101
 [submodule "sdsc-summer-institute-2020"]
 	path = sdsc-summer-institute-2020
-	url = https://github.com/sdsc/sdsc-summer-institute-2020.git
+	url = https://github.com/sdsc-hpc-training-dev/sdsc-summer-institute-2020.git
